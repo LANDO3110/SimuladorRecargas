@@ -1,0 +1,7 @@
+[
+  { "monto": 20, "bonus": 0 },
+  { "monto": 50, "bonus": 5 },
+  { "monto": 100, "bonus": 15 },
+  { "monto": 200, "bonus": 40 },
+  { "monto": 500, "bonus": 120 }
+]
